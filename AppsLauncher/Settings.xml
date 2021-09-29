@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<desktopappgroup>
+  <desktopapp id="1">
+    <name>Ovládání autodráha</name>
+    <path>C:\Program Files (x86)\GTCommand\GTCommand.exe</path>
+    <manuals>
+      <manual>
+        <name>Příručka</name>
+        <path>C:\Users\User\Desktop\AppLauncher\Manuály\Manuál autodráha.pdf</path>
+      </manual>
+    </manuals>
+  </desktopapp>
+  <desktopapp id="2">
+    <name>Ovládání kolejiště</name>
+    <path>C:\Program Files (x86)\Railroad &amp; Co.90\RailTCG32.exe</path>
+    <manuals>
+      <manual>
+        <name>Příručka 1</name>
+        <path>C:\Users\User\Desktop\AppLauncher\Manuály\Manuál kolejiště 1.pdf</path>
+      </manual>
+      <manual>
+        <name>Příručka 2</name>
+        <path>C:\Users\User\Desktop\AppLauncher\Manuály\Manuál kolejiště 2.pdf</path>
+      </manual>
+    </manuals>
+  </desktopapp>
+  <desktopapp id="3">
+    <name>Ovládání scénické osvětlení</name>
+    <path>C:\Program Files (x86)\Music Visualization\MusicVisualization.exe</path>
+    <manuals>
+      <manual>
+        <name>Příručka</name>
+        <path>C:\Users\User\Desktop\AppLauncher\Manuály\Manuál scénické osvětlení.pdf</path>
+      </manual>
+    </manuals>
+  </desktopapp>
+  <desktopapp id="4">
+    <name>Ovládání videomapping</name>
+    <path>C:\Program Files\Resolume Arena 6\Arena.exe</path>
+    <manuals>
+      <manual>
+        <name>Příručka</name>
+        <path>C:\Users\User\Desktop\AppLauncher\Manuály\Videomapping.pdf</path>
+      </manual>
+    </manuals>
+  </desktopapp>
+  <desktopapp id="5">
+    <name>Ovládání kamerový systém</name>
+    <path>C:\Program Files\iVMS-4200 Station\iVMS-4200\iVMS-4200 Client\iVMS-4200.exe</path>
+    <manuals>
+      <manual>
+        <name>Příručka</name>
+        <path>C:\Users\User\Desktop\AppLauncher\Manuály\Manuál kamerový systém.pdf</path>
+      </manual>
+    </manuals>
+  </desktopapp>
+
+</desktopappgroup>
