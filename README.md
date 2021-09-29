@@ -18,7 +18,7 @@ Tato aplikace slouží jako spouštěč aplikací a uživatelských příruček,
 
 ## Licence
 
-Více informací o licenci si můžete přečíst v dokumentu [Licence](License.md).
+Více informací o licenci si můžete přečíst v dokumentu [Licence](LICENSE.md).
 
 [*Zpět nahoru*](#documenttitle "Zpět na začátek dokumentu")
 
@@ -33,10 +33,10 @@ Více informací o licenci si můžete přečíst v dokumentu [Licence](License.
 
 ## Dokumentace (všechny dokumenty)
 
-* [Dokumentace](ReadMe.md).
+* [Dokumentace](README.md).
 * [Uživatelská příručka](UserGuide.md).
 * [Konfigurační soubor aplikace](ConfigGuide.md).
 * [Bezpečnost](Security.md).
-* [Licence](License.md).
+* [Licence](LICENSE.md).
 
 [*Zpět nahoru*](#documenttitle "Zpět na začátek dokumentu")
