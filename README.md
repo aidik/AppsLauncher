@@ -1,8 +1,8 @@
-# Application Launcher
+# Application Launcher / Dokumentace
 
 <a name="documenttitle"></a>
 
-![](img\zobec-consulting-red-full-96x96.png)
+![](img/zobec-consulting-red-full-96x96.png)
 
 Copyright &copy; 2020-2021 ZOBEC Consulting. All Rights Reserved.
 
@@ -35,7 +35,7 @@ Více informací o licenci si můžete přečíst v dokumentu [Licence](License.
 
 * [Dokumentace](ReadMe.md).
 * [Uživatelská příručka](UserGuide.md).
-* [Uživatelská příručka pro konfigurační soubor aplikace](ConfigGuide.md).
+* [Konfigurační soubor aplikace](ConfigGuide.md).
 * [Bezpečnost](Security.md).
 * [Licence](License.md).
 
