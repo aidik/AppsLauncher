@@ -1,4 +1,4 @@
-# ZOBEC Application Launcher (AppLauncher) - Documentation
+# Application Launcher
 
 <a name="documenttitle"></a>
 
