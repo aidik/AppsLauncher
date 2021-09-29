@@ -2,7 +2,7 @@
 
 <a name="documenttitle"></a>
 
-![ZOBEC Consulting logo](img\zobec-consulting-red-full-96x96.png "ZOBEC Consulting logo")
+![ZOBEC Consulting logo](img/zobec-consulting-red-full-96x96.png "ZOBEC Consulting logo")
 
 Copyright &copy; ZOBEC Consulting. All Rights Reserved.
 
