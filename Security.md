@@ -12,8 +12,8 @@ We support only last published version of the product.
 
 | Version  | Supported          |
 | -------- | ------------------ |
-| 1908.x   | :white_check_mark: |
-| < 1907.x | :x:                |
+| 2002.7   | :white_check_mark: |
+| < 2002.6 | :x:                |
 
 [*Back to top*](#documenttitle)
 
@@ -23,12 +23,12 @@ If you will found any security issue/vulnerability, please contact us on followi
 
 ### Primary contacts
 
-Contact: mailto:security@zobec.net  
-Contact: callto:+420608960987
+Contact: security@zobec.net  
+Contact: +420608960987
 
 ### Alternative contacts
 
-Contact: mailto:obchod@zobec.net  
+Contact: obchod@zobec.net  
 Contact: https://www.facebook.com/michalzobecblog/
 
 ### Preferred language
