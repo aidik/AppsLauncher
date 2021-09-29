@@ -43,10 +43,10 @@ Rozlišení obrazovky nejméně 1280x800 px.
 
 ## Dokumentace (všechny dokumenty)
 
-* [Dokumentace](ReadMe.md).
+* [Dokumentace](README.md).
 * [Uživatelská příručka](UserGuide.md).
 * [Konfigurační soubor aplikace](ConfigGuide.md).
 * [Bezpečnost](Security.md).
-* [Licence](License.md).
+* [Licence](LICENSE.md).
 
 [*Zpět nahoru*](#documenttitle "Zpět na začátek dokumentu")
